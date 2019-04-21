@@ -137,7 +137,9 @@ footer{
     margin-top: 160px;
     padding: 0 0 64px;
 }
-
+.footer a{
+    text-decoration: none;
+}
 .group-name {
     margin-top: 35px;
 }
